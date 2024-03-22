@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="css/magnific-popup.css">
 	<link rel="icon" href="images/favicon1.png" type="image/x-icon">
     <link rel="stylesheet" href="css/aos.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-FnFO23R5ZZjv9Pcnp53wzR/1I6RvtoI2waQUJQRSh5KOpU8I+zENBhvdfW+JJ7Pj" crossorigin="anonymous">
 
     <link rel="stylesheet" href="css/ionicons.min.css">
     
@@ -27,7 +28,11 @@
 	  
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.php">Isned Belhadj</a>
+	      <a class="navbar-brand" href="login.php">Isned Belhadj</a>
+		  <br>
+
+		 
+
 	      <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -77,7 +82,7 @@
 		          		<span class="subheading">Hello!</span>
 						  <h1 class="mb-4 mt-3">I'm <span>Isned Belhadj</span></h1>
 						  <h2 class="mb-4">A Software Engineering Student </h2>
-						  			            <p><a href="#about-section" class="btn btn-primary py-3 px-4">About Me</a> </p>
+		  <p><a href="#about-section" class="btn btn-primary py-3 px-4">About Me</a> </p>
 		            </div>
 		          </div>
 	        	</div>
@@ -309,6 +314,22 @@ Contribution to the development of a dashboard using Flask and Angular technolog
 				</a>
 			</div>
 		</div>
+		<div class="row">
+			<div class="col-md-6">
+				<a href="certifs/AWS_Academy_Graduate___AWS_Academy_Machine_Learning_Foundations_Badge20231220-45-3s58k4.pdf" target="_blank">
+					<div class="resume-wrap ftco-animate">
+						<img src="certifs/cap7.png" style="width: 100%; height: auto;">
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6">
+				<a href="certifs/Preparing for Google Cloud Certification.pdf" target="_blank">
+					<div class="resume-wrap ftco-animate">
+						<img src="certifs/cap8.png" style="width: 100%; height: auto;">
+					</div>
+				</a>
+			</div>
+		</div>
 		
     	</div>
     </section>
@@ -354,7 +375,8 @@ Contribution to the development of a dashboard using Flask and Angular technolog
 				<div class="row justify-content-center">
 					<div class="col-md-7 ftco-animate text-center">
 						<h2>I'm <span>Available</span> for freelancing</h2>
-						<p class="mb-0"><a href="#" class="btn btn-primary py-3 px-5">Hire me</a></p>
+						<p><a href="#contact-section" class="btn btn-primary py-3 px-4">Hire me</a> </p>
+						
 					</div>
 				</div>
 			</div>
