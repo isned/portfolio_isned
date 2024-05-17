@@ -396,9 +396,9 @@ Contribution to the development of a dashboard using Flask and Angular technolog
                 <div class="project-wrap ftco-animate">
                   
                     <div class="text">
-					<h3>Mar Car Rental System</h3>
+					<h3>Car Rental System</h3>
 <span class="subheading">JavaFX</span>
-<p>The Mar Car Rental System is a JavaFX-based application designed to facilitate car rental services. It provides a user-friendly interface for both customers and administrators to manage car rentals efficiently. Customers can browse available cars, make reservations, and track their rental history, while administrators can manage inventory, reservations, and customer data.</p>
+<p>The Car Rental System is a JavaFX-based application designed to facilitate car rental services. It provides a user-friendly interface for both customers and administrators to manage car rentals efficiently. Customers can browse available cars, make reservations, and track their rental history, while administrators can manage inventory, reservations, and customer data.</p>
 <a href="https://github.com/isned/JavaFxProject" class="btn btn-primary" target="_blank">GitHub</a>
 
 
