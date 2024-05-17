@@ -174,86 +174,75 @@ Contribution to the development of a dashboard using Flask and Angular technolog
     </section>
 
  
-		
-		<section class="ftco-section" id="skills-section">
-			<div class="container">
-				<div class="row justify-content-center pb-5">
-          <div class="col-md-12 heading-section text-center ftco-animate">
-          	<h1 class="big big-2">Skills</h1>
-            <h2 class="mb-4">My Skills</h2>
-          </div>
+	<section class="ftco-section" id="skills-section">
+  <div class="container">
+    <div class="row justify-content-center pb-5">
+      <div class="col-md-12 heading-section text-center ftco-animate">
+        <h1 class="big big-2">Skills</h1>
+        <h2 class="mb-4">My Skills</h2>
+      </div>
+    </div>
+    <div class="row">
+      <!-- Front-end skills -->
+      <div class="col-md-6 animate-box">
+        <div class="progress-wrap ftco-animate">
+          <h3>HTML5/CSS3/JavaScript</h3>
         </div>
-				<div class="row">
-					<div class="col-md-6 animate-box">
-						<div class="progress-wrap ftco-animate">
-							<h3>HTML5/CSS3/JavaScript</h3>
-							<div class="progress">
-							 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="90"
-							  	aria-valuemin="0" aria-valuemax="100" style="width:92%">
-							    <span>92%</span>
-							  	</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6 animate-box">
-						<div class="progress-wrap ftco-animate">
-							<h3>Python</h3>
-							<div class="progress">
-							 	<div class="progress-bar color-4" role="progressbar" aria-valuenow="90"
-							  	aria-valuemin="0" aria-valuemax="100" style="width:90%">
-							    <span>90%</span>
-							  	</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6 animate-box">
-						<div class="progress-wrap ftco-animate">
-							<h3>PHP</h3>
-							<div class="progress">
-							 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="85"
-							  	aria-valuemin="0" aria-valuemax="100" style="width:86%">
-							    <span>86%</span>
-							  	</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6 animate-box">
-						<div class="progress-wrap ftco-animate">
-							<h3>Java</h3>
-							<div class="progress">
-							 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="95"
-							  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
-							    <span>80%</span>
-							  	</div>
-							</div>
-						</div>
-					</div>
-					
-					<div class="col-md-6 animate-box">
-						<div class="progress-wrap ftco-animate">
-							<h3>C#</h3>
-							<div class="progress">
-							 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="70"
-							  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
-							    <span>80%</span>
-							  	</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6 animate-box">
-						<div class="progress-wrap ftco-animate">
-							<h3>SQL/PLSQL</h3>
-							<div class="progress">
-							 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
-							  	aria-valuemin="0" aria-valuemax="100" style="width:87%">
-							    <span>87%</span>
-							  	</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+      </div>
+      <div class="col-md-6 animate-box">
+        <div class="progress-wrap ftco-animate">
+          <h3>React</h3>
+        </div>
+      </div>
+      <div class="col-md-6 animate-box">
+        <div class="progress-wrap ftco-animate">
+          <h3>Angular</h3>
+        </div>
+      </div>
+
+      <!-- Back-end skills -->
+      <div class="col-md-6 animate-box">
+        <div class="progress-wrap ftco-animate">
+          <h3>Python</h3>
+        </div>
+      </div>
+      <div class="col-md-6 animate-box">
+        <div class="progress-wrap ftco-animate">
+          <h3>PHP</h3>
+        </div>
+      </div>
+      <div class="col-md-6 animate-box">
+        <div class="progress-wrap ftco-animate">
+          <h3>Java</h3>
+        </div>
+      </div>
+      <div class="col-md-6 animate-box">
+        <div class="progress-wrap ftco-animate">
+          <h3>C#</h3>
+        </div>
+		<div class="col-md-6 animate-box">
+        <div class="progress-wrap ftco-animate">
+          <h3>.NET</h3>
+        </div>
+      </div>
+      </div>
+	  <div class="col-md-6 animate-box">
+        <div class="progress-wrap ftco-animate">
+          <h3>Node.js</h3>
+        </div>
+      </div>
+      <div class="col-md-6 animate-box">
+        <div class="progress-wrap ftco-animate">
+          <h3>SQL/PLSQL</h3>
+        </div>
+      </div>
+    
+     
+    </div>
+  </div>
+</section>
+
+
  
 
     <section class="ftco-section ftco-project" id="certifications-section">
