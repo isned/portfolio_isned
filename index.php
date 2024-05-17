@@ -44,6 +44,7 @@
 	          <li class="nav-item"><a href="#resume-section" class="nav-link"><span>Resume</span></a></li>
 	          <li class="nav-item"><a href="#skills-section" class="nav-link"><span>Skills</span></a></li>
 	          <li class="nav-item"><a href="#certifications-section" class="nav-link"><span>Certifications</span></a></li>
+			  <li class="nav-item"><a href="#projects-section" class="nav-link"><span>Projects</span></a></li>
 	          <li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
 	        </ul>
 	      </div>
@@ -333,7 +334,95 @@ Contribution to the development of a dashboard using Flask and Angular technolog
 		
     	</div>
     </section>
+	  <!-- les projects  -->
 
+	<section class="ftco-section" id="projects-section">
+    <div class="container">
+        <div class="row justify-content-center pb-5">
+            <div class="col-md-12 heading-section text-center ftco-animate">
+                <h1 class="big big-2">Projects</h1>
+                <h2 class="mb-4">Projects</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="project-wrap ftco-animate">
+                    
+                    <div class="text">
+					<h3>   Tours and Travel Booking System</h3>
+<span class="subheading">MERN STACK</span>
+<p>This project is a Tours and Travel Booking System developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to search and book tours and travel packages for various destinations. The system includes features such as user authentication, tour search functionality, and booking management.</p>
+
+                        <a href="https://github.com/isned/Application_MERN" class="btn btn-primary" target="_blank">GitHub</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="project-wrap ftco-animate">
+                  
+                    <div class="text">
+                        <h3>BookStore</h3>
+                        <span class="subheading">ASP .Net</span>
+<p>This project is a BookStore web application developed using ASP .Net MVC framework. It provides functionalities for managing book inventory, handling user authentication, processing orders, and managing the bookstore's online presence. The application allows users to browse books, add them to the cart, and make purchases securely. The source code for this project is available on GitHub.</p>
+<a href="https://github.com/isned/BookStore" class="btn btn-primary" target="_blank">GitHub</a>
+
+                    </div>
+                </div>
+            </div>
+            <!-- Add more projects as needed -->
+			<div class="col-md-6">
+                <div class="project-wrap ftco-animate">
+                  
+                    <div class="text">
+					<h3>Contribution to Banking Dashboard Development</h3>
+<span class="subheading">Flask and Angular</span>
+<p>This project involves contributing to the development of a dashboard aimed at managing banking data and operations using Flask and Angular technologies. The dashboard provides comprehensive tools for handling various banking processes efficiently.</p>
+<a href="https://github.com/isned/summer_internship_project" class="btn btn-primary" target="_blank">GitHub</a>
+                    </div>
+                </div>
+            </div>
+			<div class="col-md-6">
+    <div class="project-wrap ftco-animate">
+        <div class="text">
+            <h3>React Native</h3>
+            <span class="subheading">WhatsApp Clone</span>
+            <p>This project is a WhatsApp clone mobile application developed using React Native framework. It provides functionalities for real-time messaging, group chats, media sharing, and user authentication. The application mimics the features and user experience of WhatsApp on both Android and iOS platforms.</p>
+            <a href="https://github.com/isned/React-Native-Project" class="btn btn-primary" target="_blank">GitHub</a>
+        </div>
+    </div>
+</div>
+
+			<div class="col-md-6">
+                <div class="project-wrap ftco-animate">
+                  
+                    <div class="text">
+					<h3>Mar Car Rental System</h3>
+<span class="subheading">JavaFX</span>
+<p>The Mar Car Rental System is a JavaFX-based application designed to facilitate car rental services. It provides a user-friendly interface for both customers and administrators to manage car rentals efficiently. Customers can browse available cars, make reservations, and track their rental history, while administrators can manage inventory, reservations, and customer data.</p>
+<a href="https://github.com/isned/JavaFxProject" class="btn btn-primary" target="_blank">GitHub</a>
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+			<div class="col-md-6">
+                <div class="project-wrap ftco-animate">
+                  
+                    <div class="text">
+					<h3>Movie Ticket Booking System</h3>
+<span class="subheading">PHP</span>
+<p>The Movie Ticket Booking System is a PHP-based web application designed to streamline the process of booking movie tickets online. It allows users to browse available movies, select showtimes, choose seats, and purchase tickets securely. The system also includes features for managing movie listings, theater schedules, and user bookings.</p>
+<a href="https://github.com/isned/movie_ticket_booking_system_php" class="btn btn-primary" target="_blank">GitHub</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
     
 
