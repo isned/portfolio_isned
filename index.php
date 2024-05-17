@@ -199,6 +199,11 @@ Contribution to the development of a dashboard using Flask and Angular technolog
           <h3>Angular</h3>
         </div>
       </div>
+      <div class="col-md-6 animate-box">
+        <div class="progress-wrap ftco-animate">
+          <h3>React Native</h3>
+        </div>
+      </div>
 
       <!-- Back-end skills -->
       <div class="col-md-6 animate-box">
@@ -220,13 +225,18 @@ Contribution to the development of a dashboard using Flask and Angular technolog
         <div class="progress-wrap ftco-animate">
           <h3>C#</h3>
         </div>
-		<div class="col-md-6 animate-box">
+      </div>
+      <div class="col-md-6 animate-box">
         <div class="progress-wrap ftco-animate">
           <h3>.NET</h3>
         </div>
       </div>
-      </div>
 	  <div class="col-md-6 animate-box">
+        <div class="progress-wrap ftco-animate">
+          <h3>JEE</h3>
+        </div>
+      </div>
+      <div class="col-md-6 animate-box">
         <div class="progress-wrap ftco-animate">
           <h3>Node.js</h3>
         </div>
@@ -236,11 +246,12 @@ Contribution to the development of a dashboard using Flask and Angular technolog
           <h3>SQL/PLSQL</h3>
         </div>
       </div>
-    
      
     </div>
   </div>
 </section>
+
+
 
 
  
