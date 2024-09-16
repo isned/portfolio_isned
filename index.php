@@ -151,6 +151,12 @@
     					<span class="position">Dar Chaabane el Fehri Secondary School</span>
     				</div>
 					Professional Experience
+          <div class="resume-wrap ftco-animate">
+    					<span class="date">June-August 2024</span>
+    					<h2>Summer internship at Sofirux Development</h2>
+    					<span class="position">
+              Creation of a back office to manage car rental operations..</span>
+    				</div>
     				<div class="resume-wrap ftco-animate">
     					<span class="date">August 2023</span>
     					<h2>Summer internship at Neopolis Development</h2>
