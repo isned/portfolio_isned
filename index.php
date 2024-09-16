@@ -28,7 +28,7 @@
 	  
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="login.php">Isned Belhadj</a>
+	      <a class="navbar-brand" >Isned Belhadj</a>
 		  <br>
 
 		 
@@ -101,7 +101,7 @@
 		          <div class="col-md-12 heading-section ftco-animate">
 		          	<h1 class="big">About</h1>
 		            <h2 class="mb-4">About Me</h2>
-					<p>I'm a computer engineering student, highly motivated to constantly develop my skills and evolve professionally, while adapting to future technological developments.</p>
+					<p>I'm a Software engineering student, highly motivated to constantly develop my skills and evolve professionally, while adapting to future technological developments.</p>
 		            <ul class="about-info mt-4 px-md-0 px-2">
 		            	<li class="d-flex"><span>Name:</span> <span>Isned Belhadj</span></li>
 		            	<li class="d-flex"><span>Date of birth:</span> <span>August 05, 2001</span></li>
@@ -363,7 +363,7 @@ Contribution to the development of a dashboard using Flask and Angular technolog
                     <div class="text">
                         <h3>BookStore</h3>
                         <span class="subheading">ASP .Net</span>
-<p>This project is a BookStore web application developed using ASP .Net MVC framework. It provides functionalities for managing book inventory, handling user authentication, processing orders, and managing the bookstore's online presence. The application allows users to browse books, add them to the cart, and make purchases securely. The source code for this project is available on GitHub.</p>
+<p>This project is a BookStore web application developed using ASP .Net MVC framework. It provides functionalities for managing book inventory, handling user authentication, processing orders, and managing the bookstore's online presence. The application allows users to browse books, add them to the cart, and make purchases securely. </p>
 <a href="https://github.com/isned/BookStore" class="btn btn-primary" target="_blank">GitHub</a>
 
                     </div>
