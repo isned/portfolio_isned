@@ -1,0 +1,4 @@
+runtime: php81
+instance_class: F1
+env_variables:
+  ENV: "production"
