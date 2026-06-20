@@ -28,7 +28,7 @@
 	  
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" >Isned Belhadj</a>
+	      <a class="navbar-brand" >Isned BEN HADJ</a>
 		  <br>
 
 		 
@@ -62,7 +62,7 @@
 		          <div class="one-forth d-flex  align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 		          	<div class="text">
 		          		<span class="subheading">Hello!</span>
-			            <h1 class="mb-4 mt-3">I'm <span>Isned Belhadj</span></h1>
+			            <h1 class="mb-4 mt-3">I'm <span>Isned BEN HADJ</span></h1>
 			            <h2 class="mb-4">A Software Engineering Student </h2>
 						<p><a href="#about-section" class="btn btn-primary py-3 px-4">About Me</a> </p>
 		            </div>
@@ -107,7 +107,7 @@
 		            	<li class="d-flex"><span>Date of birth:</span> <span>August 05, 2001</span></li>
 		            	<li class="d-flex"><span>Address:</span> <span>Ibn Batouta Street, Dar Chabane El Fehri, Nabeul, Tunis</span></li>
 		            	<li class="d-flex"><span>Postal Code:</span> <span>8011</span></li>
-		            	<li class="d-flex"><span>Email:</span> <span>esned.blhj@gmail.com</span></li>
+		            	<li class="d-flex"><span>Email:</span> <span>isnedbenhadj@gmail.com</span></li>
 		            	<li class="d-flex"><span>Phone: </span> <span>+216 56292921</span></li>
 		            </ul>
 		          </div>
@@ -561,7 +561,6 @@ Contribution to the development of a dashboard using Flask and Angular technolog
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
 			  <li class="ftco-animate"><a href="https://github.com/isned"><span class="icon-github"></span></a></li>
                 <li class="ftco-animate"><a href="https://www.linkedin.com/in/isned-belhadj-2b773a230/"><span class="icon-linkedin"></span></a></li>
-                <li class="ftco-animate"><a href="https://www.facebook.com/esn.ad.1232"><span class="icon-facebook"></span></a></li>
                 <li class="ftco-animate"><a href="https://www.instagram.com/isned.belhaj/?next=%2F"><span class="icon-instagram"></span></a></li>
               </ul>
             </div>
