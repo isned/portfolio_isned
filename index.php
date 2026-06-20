@@ -56,14 +56,14 @@
 	      	<div class="overlay"></div>
 	        <div class="container">
 	          <div class="row d-md-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
-	          	<div class="one-third js-fullheight order-md-last img" style="background-image:url(images/isned1.JPG);">
+	          	<div class="one-third js-fullheight order-md-last img" style="background-image:url(images/isnedPhoto.jpeg);">
 	          		<div class="overlay"></div>
 	          	</div>
 		          <div class="one-forth d-flex  align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 		          	<div class="text">
 		          		<span class="subheading">Hello!</span>
 			            <h1 class="mb-4 mt-3">I'm <span>Isned BEN HADJ</span></h1>
-			            <h2 class="mb-4">A Software Engineering Student </h2>
+			            <h2 class="mb-4">A Software Engineering</h2>
 						<p><a href="#about-section" class="btn btn-primary py-3 px-4">About Me</a> </p>
 		            </div>
 		          </div>
@@ -75,14 +75,14 @@
 	      	<div class="overlay"></div>
 	        <div class="container">
 	          <div class="row d-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
-	          	<div class="one-third js-fullheight order-md-last img" style="background-image:url(images/isned2.JPG);">
+	          	<div class="one-third js-fullheight order-md-last img" style="background-image:url(images/isnedPhoto.jpeg);">
 	          		<div class="overlay"></div>
 	          	</div>
 		          <div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 		          	<div class="text">
 		          		<span class="subheading">Hello!</span>
-						  <h1 class="mb-4 mt-3">I'm <span>Isned Belhadj</span></h1>
-						  <h2 class="mb-4">A Software Engineering Student </h2>
+						  <h1 class="mb-4 mt-3">I'm <span>Isned BEN HADJ</span></h1>
+						  <h2 class="mb-4">A Software Engineering</h2>
 		  <p><a href="#about-section" class="btn btn-primary py-3 px-4">About Me</a> </p>
 		            </div>
 		          </div>
@@ -101,9 +101,8 @@
 		          <div class="col-md-12 heading-section ftco-animate">
 		          	<h1 class="big">About</h1>
 		            <h2 class="mb-4">About Me</h2>
-					<p>I'm a Software engineering student, highly motivated to constantly develop my skills and evolve professionally, while adapting to future technological developments.</p>
-		            <ul class="about-info mt-4 px-md-0 px-2">
-		            	<li class="d-flex"><span>Name:</span> <span>Isned Belhadj</span></li>
+<p>I'm a Software Engineer specializing in software development, passionate about creating efficient and scalable applications. I am committed to continuous learning, innovation, and delivering high-quality solutions.</p>		            <ul class="about-info mt-4 px-md-0 px-2">
+		            	<li class="d-flex"><span>Name:</span> <span>Isned BEN HADJ</span></li>
 		            	<li class="d-flex"><span>Date of birth:</span> <span>August 05, 2001</span></li>
 		            	<li class="d-flex"><span>Address:</span> <span>Ibn Batouta Street, Dar Chabane El Fehri, Nabeul, Tunis</span></li>
 		            	<li class="d-flex"><span>Postal Code:</span> <span>8011</span></li>
@@ -134,7 +133,7 @@
     		<div class="row">
     			<div class="col-md-6">Education
     				<div class="resume-wrap ftco-animate">
-    					<span class="date">2022-Present</span>
+    					<span class="date">2022-2025</span>
     					<h2>Computer engineering cycle</h2>
     					<span class="position">ITBS-IT Business School University</span>
     				</div>
@@ -151,11 +150,28 @@
     					<span class="position">Dar Chaabane el Fehri Secondary School</span>
     				</div>
 					Professional Experience
+         <div class="resume-wrap ftco-animate">
+    <span class="date">July 2025 – Present</span>
+    <h2>Full-Stack Developer (PHP/React) at OPEN BEE</h2>
+    <span class="position">
+        Development and maintenance of web applications using React and PHP, implementation of new features, bug fixing, and collaboration with cross-functional teams in an Agile environment.
+    </span>
+</div>
+
+<div class="resume-wrap ftco-animate">
+    <span class="date">February 2025 – May 2025 (4 months)</span>
+    <h2>Final Year Internship at OPEN BEE</h2>
+    <span class="position">
+        Migration of a desktop .NET application to a web-based add-on connected and synchronized with a Document Management System (DMS).<br>
+        <strong>Technologies:</strong> React.js, Symfony, REST API, Azure, MySQL, GitLab, Postman, Swagger, RabbitMQ, StarUML.
+    </span>
+</div>
+
           <div class="resume-wrap ftco-animate">
-    					<span class="date">June-August 2024</span>
+    					<span class="date">June 2024 – August 2024</span>
     					<h2>Summer internship at Sofirux Development</h2>
     					<span class="position">
-              Creation of a back office to manage car rental operations..</span>
+              Creation of a back office to manage car rental operations.</span>
     				</div>
     				<div class="resume-wrap ftco-animate">
     					<span class="date">August 2023</span>
@@ -172,8 +188,8 @@ Contribution to the development of a dashboard using Flask and Angular technolog
     		</div>
     		<div class="row justify-content-center mt-5">
     			<div class="col-md-6 text-center ftco-animate">
-				<p><a href="https://isned-belhadj.netlify.app/" class="btn btn-primary py-4 px-5">Click to view cv or scan </a></p>
-				<img src="images/code.png" >
+				<p><a class="btn btn-primary py-4 px-5">Scan to view cv</a></p>
+				<img src="images/qr.png" >
 
     			</div>
     		</div>
@@ -333,6 +349,14 @@ Contribution to the development of a dashboard using Flask and Angular technolog
 				<a href="certifs/Preparing for Google Cloud Certification.pdf" target="_blank">
 					<div class="resume-wrap ftco-animate">
 						<img src="certifs/cap8.png" style="width: 100%; height: auto;">
+					</div>
+				</a>
+			</div>
+		</div>
+    <div class="row">
+			<div class="col-md-6">
+					<div class="resume-wrap ftco-animate">
+						<img src="certifs/trophe.jpeg" style="width: 100%; height: auto;">
 					</div>
 				</a>
 			</div>
@@ -514,7 +538,7 @@ Contribution to the development of a dashboard using Flask and Angular technolog
           			<span class="icon-paper-plane"></span>
           		</div>
           		<h3 class="mb-4">Email Address</h3>
-	            <p><a href="mailto:esned.blhj@gmail.com">esned.blhj@gmail.com</a></p>
+	            <p><a href="mailto:isnedbenhadj@gmail.com">isnedbenhadj@gmail.com</a></p>
 				<br>
 				<br>
 	          </div>
@@ -587,7 +611,7 @@ Contribution to the development of a dashboard using Flask and Angular technolog
 	              <ul>
 	                <li><span class="icon icon-map-marker"></span><span class="text">Ibn Batouta Street, Dar Chabane El Fehri, Nabeul, Tunis</span></li>
 	                <li><span class="icon icon-phone"></span><span class="text">+216 56292921</span></a></li>
-	                <li><span class="icon icon-envelope"></span><span class="text">esned.blhj@gmail.com</span></a></li>
+	                <li><span class="icon icon-envelope"></span><span class="text">isnedbenhadj@gmail.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
