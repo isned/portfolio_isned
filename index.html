@@ -501,79 +501,79 @@ Contribution to the development of a dashboard using Flask and Angular technolog
 			</div>
 		</section>
 
-    <section class="ftco-section contact-section ftco-no-pb" id="contact-section">
-      <div class="container">
-      	<div class="row justify-content-center mb-5 pb-3">
-          <div class="col-md-7 heading-section text-center ftco-animate">
-            <h1 class="big big-2">Contact</h1>
-            <h2 class="mb-4">Contact Me</h2>
-            <p>If you have any questions or requests, please do not hesitate to contact us. We're here to help. Use our contact form or send us an e-mail. We will reply to your message as soon as possible. Thank you for your interest.</p>
-          </div>
-        </div>
+    
+		<section class="ftco-section contact-section ftco-no-pb" id="contact-section">
+  <div class="container">
+    <div class="row justify-content-center mb-5 pb-3">
+      <div class="col-md-7 heading-section text-center ftco-animate">
+        <h1 class="big big-2">Contact</h1>
+        <h2 class="mb-4">Contact Me</h2>
+        <p>If you have any questions or requests, please do not hesitate to contact me.</p>
+      </div>
+    </div>
 
-        <div class="row d-flex contact-info mb-5">
-          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
-          	<div class="align-self-stretch box p-4 text-center">
-          		<div class="icon d-flex align-items-center justify-content-center">
-          			<span class="icon-map-signs"></span>
-          		</div>
-          		<h3 class="mb-4">Address</h3>
-	            <p>Ibn Batouta Street, Dar Chabane El Fehri, Nabeul, Tunis</p>
-	          </div>
+    <div class="row d-flex contact-info mb-5">
+      <div class="col-md-6 col-lg-3 d-flex ftco-animate">
+        <div class="align-self-stretch box p-4 text-center">
+          <div class="icon d-flex align-items-center justify-content-center">
+            <span class="icon-map-signs"></span>
           </div>
-          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
-          	<div class="align-self-stretch box p-4 text-center">
-          		<div class="icon d-flex align-items-center justify-content-center">
-          			<span class="icon-phone2"></span>
-          		</div>
-          		<h3 class="mb-4">Contact Number</h3>
-	            <p>+216 56292921</p>
-				<br>
-				<br>
-	          </div>
-          </div>
-          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
-          	<div class="align-self-stretch box p-4 text-center">
-          		<div class="icon d-flex align-items-center justify-content-center">
-          			<span class="icon-paper-plane"></span>
-          		</div>
-          		<h3 class="mb-4">Email Address</h3>
-	            <p><a href="mailto:isnedbenhadj@gmail.com">isnedbenhadj@gmail.com</a></p>
-				<br>
-				<br>
-	          </div>
-          </div>
-         
-        </div>
-
-        <div class="row no-gutters block-9">
-          <div class="col-md-6 order-md-last d-flex">
-		  <form action="process-form.php" class="bg-light p-4 p-md-5 contact-form" method="post">
-    <div class="form-group">
-        <input type="text" class="form-control" placeholder="Your Name" name="name">
-    </div>
-    <div class="form-group">
-        <input type="text" class="form-control" placeholder="Your Email" name="email">
-    </div>
-    <div class="form-group">
-        <input type="text" class="form-control" placeholder="Subject" name="subject">
-    </div>
-    <div class="form-group">
-        <textarea name="message" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
-    </div>
-    <div class="form-group">
-        <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
-    </div>
-</form>
-
-          
-          </div>
-
-          
+          <h3 class="mb-4">Address</h3>
+          <p>Ibn Batouta Street, Dar Chabane El Fehri, Nabeul, Tunis</p>
         </div>
       </div>
-    </section>
-		
+
+      <div class="col-md-6 col-lg-3 d-flex ftco-animate">
+        <div class="align-self-stretch box p-4 text-center">
+          <div class="icon d-flex align-items-center justify-content-center">
+            <span class="icon-phone2"></span>
+          </div>
+          <h3 class="mb-4">Contact Number</h3>
+          <p>+216 56292921</p>
+        </div>
+      </div>
+
+      <div class="col-md-6 col-lg-3 d-flex ftco-animate">
+        <div class="align-self-stretch box p-4 text-center">
+          <div class="icon d-flex align-items-center justify-content-center">
+            <span class="icon-paper-plane"></span>
+          </div>
+          <h3 class="mb-4">Email Address</h3>
+          <p><a href="mailto:isnedbenhadj@gmail.com">isnedbenhadj@gmail.com</a></p>
+        </div>
+      </div>
+    </div>
+
+    <!-- FORM EMAILJS -->
+    <div class="row no-gutters block-9">
+      <div class="col-md-6 d-flex">
+        <form id="contact-form" class="bg-light p-4 p-md-5 contact-form w-100">
+          
+          <div class="form-group">
+            <input type="text" name="name" class="form-control" placeholder="Your Name" required>
+          </div>
+
+          <div class="form-group">
+            <input type="email" name="email" class="form-control" placeholder="Your Email" required>
+          </div>
+
+          <div class="form-group">
+            <input type="text" name="subject" class="form-control" placeholder="Subject" required>
+          </div>
+
+          <div class="form-group">
+            <textarea name="message" cols="30" rows="7" class="form-control" placeholder="Message" required></textarea>
+          </div>
+
+          <div class="form-group">
+            <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
+          </div>
+
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
 
     <footer class="ftco-footer ftco-section">
       <div class="container">
@@ -641,6 +641,26 @@ Contribution to the development of a dashboard using Flask and Angular technolog
   <script src="js/scrollax.min.js"></script>
   
   <script src="js/main.js"></script>
-    
+    <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+
+<script>
+  emailjs.init("XU9Y_0exJ0TzpDUkh");
+
+  document.getElementById("contact-form").addEventListener("submit", function(e) {
+    e.preventDefault();
+
+    emailjs.sendForm(
+      "service_t3i7c4g",
+      "template_efpb9qk",
+      this
+    ).then(() => {
+      alert("Message sent successfully!");
+      this.reset();
+    }, (error) => {
+      alert("Error sending message");
+      console.log(error);
+    });
+  });
+</script>
   </body>
 </html>
